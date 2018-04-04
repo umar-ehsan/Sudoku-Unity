@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Erase : MonoBehaviour {
 	public void eraseClicked(){
-		if (GameManager.cellClicked != null) {
+		if (GameManager.cellClicked != null && GameManager.cellClicked.playable != false) {
 			GameManager.cellClicked.txtvalue.text = "";
 			GameManager.cellClicked.txtvalue.color = Color.white;
 			GameManager.squares.Add (GameManager.cellCoords [0]);
