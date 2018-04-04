@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Erase.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="7" Column="43" />
+      <File FileName="Assets\Scripts\Grid.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\Row.cs" Line="16" Column="5" />
+      <File FileName="Assets\Scripts\NumberInput.cs" Line="10" Column="30" />
+      <File FileName="Assets\Scripts\GetChildren.cs" Line="32" Column="4" />
+      <File FileName="Assets\Scripts\Restart.cs" Line="12" Column="34" />
+      <File FileName="Assets\Scripts\Erase.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
