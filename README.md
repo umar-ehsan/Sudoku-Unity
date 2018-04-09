@@ -3,7 +3,7 @@
 Repository for Principles of software and requirement SOFE 2720
 
 ### Group members ###
-- Muhammad Eshan
+- Muhammad Ehsan
 - Hyon Lee
 - Walid Safi 
 - Diba Shoejaeigoradel
